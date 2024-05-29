@@ -21,11 +21,11 @@
                 </li>
 
                 <li class="nav-item">
-                    <a href="/register.html" class="nav-link">Sign Up</a>
+                    <a href="{{route('register')}}" class="nav-link">Sign Up</a>
                 </li>
                 
                 <li class="nav-item">
-                    <a href="/login.html" class="btn btn-warning nav-link px-4 text-white">Sign In</a>
+                    <a href="{{route('login')}}" class="btn btn-warning nav-link px-4 text-white">Sign In</a>
                 </li>
             </ul>
         </div>
