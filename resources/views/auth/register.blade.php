@@ -48,10 +48,10 @@
                                 <option value="" disabled>Select Category</option>
                             </select>
                         </div>
-                        <a href="/register-success.html" class="btn btn-warning btn-block mt-4 text-white">
+                        <a href="{{route('register-success')}}" class="btn btn-warning btn-block mt-4 text-white">
                             Sign Up
                         </a>
-                        <a href="/login.html" class="btn btn-signup btn-block mt-4">
+                        <a href="{{route('login')}}" class="btn btn-signup btn-block mt-4">
                             Back To Sign In
                         </a>
                     </form>
