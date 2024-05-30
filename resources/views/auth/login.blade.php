@@ -22,10 +22,10 @@
                             <label for="">Password</label>
                             <input type="password" class="form-control w-75" />
                         </div>
-                        <a href="/dashboard.html" class="btn btn-warning btn-block w-75 mt-4 text-white">
+                        <a href="{{route('dashboard')}}" class="btn btn-warning btn-block w-75 mt-4 text-white">
                             Sign In
                         </a>
-                        <a href="/register.html" class="btn btn-signup btn-block w-75 mt-4">
+                        <a href="{{route('register')}}" class="btn btn-signup btn-block w-75 mt-4">
                             Sign Up
                         </a>
                     </form>
