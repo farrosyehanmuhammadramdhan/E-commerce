@@ -45,7 +45,7 @@
                         <a href="#" class="nav-link"> Hi, Liem </a>
                     </li>
                     <li class="nav-item">
-                        <a href="{{route('cart')}}" class="nav-link d-inline-block"> Cart </a>
+                        <a href="#" class="nav-link d-inline-block"> Cart </a>
                     </li>
                 </ul>
             </div>
@@ -68,7 +68,7 @@
                 </div>
                 <div class="row mt-4">
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                        <a href="{{route('dashboard-products-details')}}" class="card card-dashboard-product d-block">
+                        <a href="#" class="card card-dashboard-product d-block">
                             <div class="card-body">
                                 <img src="/images/productcard1.png" alt="" class="w-100 mb-2" />
                                 <div class="product-title">JBL Medium</div>
@@ -77,7 +77,7 @@
                         </a>
                     </div>
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                        <a href="{{route('dashboard-products-details')}}" class="card card-dashboard-product d-block">
+                        <a href="#" class="card card-dashboard-product d-block">
                             <div class="card-body">
                                 <img src="/images/productcard2.png" alt="" class="w-100 mb-2" />
                                 <div class="product-title">Consol Ps4</div>
@@ -86,7 +86,7 @@
                         </a>
                     </div>
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                        <a href="{{route('dashboard-products-details')}}" class="card card-dashboard-product d-block">
+                        <a href="#" class="card card-dashboard-product d-block">
                             <div class="card-body">
                                 <img src="/images/productcard3.png" alt="" class="w-100 mb-2" />
                                 <div class="product-title">Cyberpunk Razer Yellow</div>
@@ -95,7 +95,7 @@
                         </a>
                     </div>
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                        <a href="{{route('dashboard-products-details')}}" class="card card-dashboard-product d-block">
+                        <a href="#" class="card card-dashboard-product d-block">
                             <div class="card-body">
                                 <img src="/images/productcard4.png" alt="" class="w-100 mb-2" />
                                 <div class="product-title">Black Razer Series</div>
@@ -104,7 +104,7 @@
                         </a>
                     </div>
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                        <a href="{{route('dashboard-products-details')}}" class="card card-dashboard-product d-block">
+                        <a href="#" class="card card-dashboard-product d-block">
                             <div class="card-body">
                                 <img src="/images/productcard5.png" alt="" class="w-100 mb-2" />
                                 <div class="product-title">JBL Level 3</div>
