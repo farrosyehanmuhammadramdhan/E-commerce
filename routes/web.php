@@ -22,6 +22,8 @@ Route::get('/dashboard/products/create', [App\Http\Controllers\DashboardProducts
 Route::get('/dashboard/products/{id}', [App\Http\Controllers\DashboardProductsController::class, 'details'])->name('dashboard-products-details');
 
 Route::get('/dashboard/transactions', [App\Http\Controllers\DashboardTransactionsController::class, 'index'])->name('dashboard-transactions');
+Route::get('/dashboard/transactions/{id}', [App\Http\Controllers\DashboardTransactionsController::class, 'details'])->name('dashboard-transactions-details');
+
 
 
 Auth::routes();
